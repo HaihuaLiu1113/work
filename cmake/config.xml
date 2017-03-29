@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<RoomServer version="0.1.1" autor="liu" lastdate="2017-03-18">
+	<RSConfig port="5188" />
+	<DBConfig DBUser="root" DBPassword="123" />
+</RoomServer>

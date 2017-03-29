@@ -1,0 +1,8 @@
+Log file created at: 2,017/03/27 18:28:07
+Running on machine: admin
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0327 18:28:07.684,392 3,093 RS_TcpEvent.cpp:54] [TCP SESSION]:CLOSE:19
+W0327 18:44:31.481,673 3,093 RS_TcpEvent.cpp:54] [TCP SESSION]:CLOSE:19
+W0327 18:47:54.148,748 3,093 RS_TcpEvent.cpp:54] [TCP SESSION]:CLOSE:19
+W0327 18:48:45.882,071 3,093 RS_TcpEvent.cpp:54] [TCP SESSION]:CLOSE:19
+W0327 18:50:56.482,187 3,093 RS_TcpEvent.cpp:54] [TCP SESSION]:CLOSE:19

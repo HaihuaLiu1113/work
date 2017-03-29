@@ -1,0 +1,82 @@
+Log file created at: 2,017/03/27 18:19:07
+Running on machine: admin
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0327 18:19:07.501,657 3,090 RS_DBServer.cpp:199] [userInfo]:userId 10011	 userName海华
+I0327 18:19:07.502,859 3,090 RS_TcpServer.cpp:15] [GPS SERVER]:INIT DONE
+I0327 18:25:48.800,354 3,093 RS_TcpEvent.cpp:40] [TCP SESSION]:CONNECTED:192.168.1.116	19
+I0327 18:25:52.876,456 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:25:56.877,372 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:00.878,185 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:04.878,886 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:08.879,504 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:12.880,950 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:16.881,186 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:20.881,578 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:24.882,123 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:28.884,747 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:32.883,682 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:36.884,006 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:40.885,213 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:44.886,505 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:48.886,618 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:52.887,269 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:26:56.887,928 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:00.889,502 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:04.890,404 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:08.891,161 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:12.891,824 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:16.892,545 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:20.894,366 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:24.893,673 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:28.895,026 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:32.895,670 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:36.896,394 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:40.898,618 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:44.898,074 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:48.899,821 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:52.899,878 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:27:56.901,501 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:28:00.901,886 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:28:04.902,161 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+W0327 18:28:07.684,392 3,093 RS_TcpEvent.cpp:54] [TCP SESSION]:CLOSE:19
+I0327 18:44:23.685,915 3,093 RS_TcpEvent.cpp:40] [TCP SESSION]:CONNECTED:192.168.1.116	19
+I0327 18:44:27.729,058 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+W0327 18:44:31.481,673 3,093 RS_TcpEvent.cpp:54] [TCP SESSION]:CLOSE:19
+I0327 18:46:06.167,042 3,093 RS_TcpEvent.cpp:40] [TCP SESSION]:CONNECTED:192.168.1.172	19
+I0327 18:46:10.201,505 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:14.203,306 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:18.208,693 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:22.212,980 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:26.217,483 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:30.218,354 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:34.219,911 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:38.226,285 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:42.228,896 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:46.233,606 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:50.238,531 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:54.245,064 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:46:58.248,085 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:02.252,372 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:06.258,582 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:10.262,006 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:14.267,696 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:18.271,888 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:22.277,492 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:26.282,140 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:30.287,420 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:34.291,779 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:38.296,288 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:42.301,048 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:46.306,213 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:47:50.310,060 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+W0327 18:47:54.148,748 3,093 RS_TcpEvent.cpp:54] [TCP SESSION]:CLOSE:19
+I0327 18:48:25.256,470 3,093 RS_TcpEvent.cpp:40] [TCP SESSION]:CONNECTED:192.168.1.172	19
+I0327 18:48:29.282,122 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:48:33.283,107 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:48:37.287,192 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:48:41.292,630 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+I0327 18:48:45.296,011 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+W0327 18:48:45.882,071 3,093 RS_TcpEvent.cpp:54] [TCP SESSION]:CLOSE:19
+I0327 18:50:51.799,074 3,093 RS_TcpEvent.cpp:40] [TCP SESSION]:CONNECTED:192.168.1.172	19
+I0327 18:50:55.819,607 3,093 RS_TcpEvent.cpp:67] [RECV MSGHEAD]:0x0101 data{"userId":"2","userName":"等级为鲁斯","userSex":"1","roomcardNumber":"2","gameType":"2","rechargeAmount":"2","status":"1"} fw
+W0327 18:50:56.482,187 3,093 RS_TcpEvent.cpp:54] [TCP SESSION]:CLOSE:19

@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x    CMakeFiles/test.dir/home/admin/work/code/main.cpp.o  -o test -rdynamic -lboost_thread -lboost_system -lboost_signals -lpthread 

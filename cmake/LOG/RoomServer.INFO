@@ -1,0 +1,4 @@
+Log file created at: 2,017/03/27 19:36:52
+Running on machine: admin
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0327 19:36:52.994,575 3,810 RS_TcpServer.cpp:15] [GPS SERVER]:INIT DONE
